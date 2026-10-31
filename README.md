@@ -27,7 +27,7 @@ instrucciones para Claude) y su script en `scripts/`.
 Necesitas [uv](https://docs.astral.sh/uv/) y [Claude Code](https://claude.com/claude-code).
 
 ```bash
-git clone <url-de-este-repositorio>
+git clone https://github.com/Jhane080/skills-enaho.git
 cd skills-enaho
 uv sync
 claude
